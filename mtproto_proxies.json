@@ -1,20 +1,20 @@
 [
   {
-    "server": "ultraproxy.shop",
+    "server": "web.checkmyduck.co.uk",
     "port": 443,
-    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "url": "tg://proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
+    "secret": "dd8fa3eecaf2674524bf987180f01fe0ae",
+    "url": "tg://proxy?server=web.checkmyduck.co.uk&port=443&secret=dd8fa3eecaf2674524bf987180f01fe0ae"
   },
   {
-    "server": "dl.linux-orggv.co.uk",
+    "server": "ir-ir.rebol.info",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir-ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   },
   {
-    "server": "sudega30.ashwren.xyz",
-    "port": 443,
-    "secret": "eee1d528d13649f8288c1ea7898787b48662726f777365722e79616e6465782e7275",
-    "url": "tg://proxy?server=sudega30.ashwren.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b48662726f777365722e79616e6465782e7275"
+    "server": "ir-ir.gnutella2.info",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir-ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
