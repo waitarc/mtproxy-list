@@ -1,20 +1,20 @@
 [
   {
-    "server": "web.checkmyduck.co.uk",
+    "server": "gram.proxynet.tech",
     "port": 443,
-    "secret": "dd8fa3eecaf2674524bf987180f01fe0ae",
-    "url": "tg://proxy?server=web.checkmyduck.co.uk&port=443&secret=dd8fa3eecaf2674524bf987180f01fe0ae"
+    "secret": "ee46a30f9e2a6c81ba8466e5055d3d497a64726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=gram.proxynet.tech&port=443&secret=ee46a30f9e2a6c81ba8466e5055d3d497a64726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "ir-ir.rebol.info",
+    "server": "3etare.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.rebol.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=3etare.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir-ir.gnutella2.info",
+    "server": "nocloudnew.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.gnutella2.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=nocloudnew.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
