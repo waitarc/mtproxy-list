@@ -1,20 +1,20 @@
 [
   {
-    "server": "ultraproxy.shop",
-    "port": 443,
-    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "url": "tg://proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
+    "server": "neon.tealbriar.xyz",
+    "port": 8443,
+    "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
+    "url": "tg://proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
   },
   {
-    "server": "im.dumaniltd.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "reference.zerooners.com",
+    "port": 300,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCWFydmFuY2xvdWQuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "url": "tg://proxy?server=reference.zerooners.com&port=300&secret=eeNEgYdJvXrFGRMCIMJdCWFydmFuY2xvdWQuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
   },
   {
-    "server": "ir.closcloud.co.uk",
-    "port": 8443,
+    "server": "strait-of-hormuz.ir.bcsadwtgd.info",
+    "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=strait-of-hormuz.ir.bcsadwtgd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
