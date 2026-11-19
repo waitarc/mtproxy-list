@@ -1,20 +1,20 @@
 [
   {
-    "server": "vivi73.sorrelbay.xyz",
+    "server": "tg.prxtg.top",
     "port": 443,
-    "secret": "ee2d41dffff1a709fab3857583bca0c360617669746f2e7275",
-    "url": "tg://proxy?server=vivi73.sorrelbay.xyz&port=443&secret=ee2d41dffff1a709fab3857583bca0c360617669746f2e7275"
+    "secret": "ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d"
   },
   {
-    "server": "sukane35.ashwren.xyz",
-    "port": 8443,
-    "secret": "ee2d41dffff1a709fab3857583bca0c360706574726f766963682e7275",
-    "url": "tg://proxy?server=sukane35.ashwren.xyz&port=8443&secret=ee2d41dffff1a709fab3857583bca0c360706574726f766963682e7275"
+    "server": "speed-speed.co.uk",
+    "port": 443,
+    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=speed-speed.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
   },
   {
-    "server": "ir-ir.rdenham.co.uk",
+    "server": "puot.mozitop.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.rdenham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
