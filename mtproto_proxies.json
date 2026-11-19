@@ -1,20 +1,20 @@
 [
   {
-    "server": "pishi.nanaz.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=pishi.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "pesar.nanaz.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "max.fastprx.top",
+    "server": "vivi73.sorrelbay.xyz",
     "port": 443,
-    "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
-    "url": "tg://proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
+    "secret": "ee2d41dffff1a709fab3857583bca0c360617669746f2e7275",
+    "url": "tg://proxy?server=vivi73.sorrelbay.xyz&port=443&secret=ee2d41dffff1a709fab3857583bca0c360617669746f2e7275"
+  },
+  {
+    "server": "sukane35.ashwren.xyz",
+    "port": 8443,
+    "secret": "ee2d41dffff1a709fab3857583bca0c360706574726f766963682e7275",
+    "url": "tg://proxy?server=sukane35.ashwren.xyz&port=8443&secret=ee2d41dffff1a709fab3857583bca0c360706574726f766963682e7275"
+  },
+  {
+    "server": "ir-ir.rdenham.co.uk",
+    "port": 8443,
+    "secret": "EERighJJvXrFGRMCIMjdCQ",
+    "url": "tg://proxy?server=ir-ir.rdenham.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   }
 ]
