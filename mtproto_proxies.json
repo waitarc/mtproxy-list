@@ -1,20 +1,20 @@
 [
   {
-    "server": "pishi.nanaz.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=pishi.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "pesar.nanaz.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "yastreb-good.ru",
+    "server": "sso.prxtg.top",
     "port": 443,
-    "secret": "dd28556adf3c66dae02e80b77d47d3086a",
-    "url": "tg://proxy?server=yastreb-good.ru&port=443&secret=dd28556adf3c66dae02e80b77d47d3086a"
+    "secret": "ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70",
+    "url": "tg://proxy?server=sso.prxtg.top&port=443&secret=ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70"
+  },
+  {
+    "server": "ram7.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+    "server": "tazenafas.dingi3.co.uk",
+    "port": 4455,
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
   }
 ]
