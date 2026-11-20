@@ -1,20 +1,20 @@
 [
   {
-    "server": "ir-ir.makkers.co.uk",
+    "server": "pishi.nanaz.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=pishi.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir-ir.goaphrodite.co.uk",
+    "server": "pesar.nanaz.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.goaphrodite.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "secret": "EERighJJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "ir-ir.connectina.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMjdCQ",
-    "url": "tg://proxy?server=ir-ir.connectina.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "server": "yastreb-good.ru",
+    "port": 443,
+    "secret": "dd28556adf3c66dae02e80b77d47d3086a",
+    "url": "tg://proxy?server=yastreb-good.ru&port=443&secret=dd28556adf3c66dae02e80b77d47d3086a"
   }
 ]
