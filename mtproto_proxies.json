@@ -1,20 +1,20 @@
 [
   {
-    "server": "sso.prxtg.top",
+    "server": "91.221.191.138",
     "port": 443,
-    "secret": "ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70",
-    "url": "tg://proxy?server=sso.prxtg.top&port=443&secret=ee81155f42409fce134de8524006051c6973736f2e70727874672e746f70"
+    "secret": "dd104462821249bd7ac519130220c25d09",
+    "url": "tg://proxy?server=91.221.191.138&port=443&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-    "server": "ram7.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=ram7.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "alooo.unarc.com.tr",
+    "port": 2083,
+    "secret": "7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20",
+    "url": "tg://proxy?server=alooo.unarc.com.tr&port=2083&secret=7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20"
   },
   {
-    "server": "tazenafas.dingi3.co.uk",
-    "port": 4455,
-    "secret": "dd104462821249bd7ac519130220c25d09",
-    "url": "tg://proxy?server=tazenafas.dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
+    "server": "top.deal-market.xyz",
+    "port": 853,
+    "secret": "eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d",
+    "url": "tg://proxy?server=top.deal-market.xyz&port=853&secret=eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d"
   }
 ]
