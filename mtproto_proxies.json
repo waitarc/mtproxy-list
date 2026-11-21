@@ -1,20 +1,20 @@
 [
   {
-    "server": "puot.mozitop.co.uk",
-    "port": 8443,
+    "server": "max.fastprx.top",
+    "port": 443,
+    "secret": "eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=max.fastprx.top&port=443&secret=eecfa453767a4b15622b61914eced5705164726976652e676f6f676c652e636f6d"
+  },
+  {
+    "server": "strait-of-hormuz.ir.bcsadwtgd.info",
+    "port": 7443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=strait-of-hormuz.ir.bcsadwtgd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "hel-hi.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=hel-hi.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
-  },
-  {
-    "server": "speed-speed.co.uk",
-    "port": 443,
-    "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-    "url": "tg://proxy?server=speed-speed.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d"
+    "server": "this-is-home.ir.bcsadwtgd.info",
+    "port": 7443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=this-is-home.ir.bcsadwtgd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
