@@ -1,20 +1,20 @@
 [
   {
-    "server": "noon.begir.co.uk",
+    "server": "mt-sw.alex-photo-notes.pl",
+    "port": 443,
+    "secret": "eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d",
+    "url": "tg://proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d"
+  },
+  {
+    "server": "neon.tealbriar.xyz",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=noon.begir.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
+    "url": "tg://proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
   },
   {
-    "server": "edgespindle.org",
-    "port": 443,
-    "secret": "eebec6acb2a5464709485d7cbeedd8612b686f66662e7275",
-    "url": "tg://proxy?server=edgespindle.org&port=443&secret=eebec6acb2a5464709485d7cbeedd8612b686f66662e7275"
-  },
-  {
-    "server": "objectpeak.org",
-    "port": 443,
-    "secret": "ee15d9244d7aa802e81b1736133fe059c5686f66662e7275",
-    "url": "tg://proxy?server=objectpeak.org&port=443&secret=ee15d9244d7aa802e81b1736133fe059c5686f66662e7275"
+    "server": "media.maxim-api.com",
+    "port": 18443,
+    "secret": "ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d",
+    "url": "tg://proxy?server=media.maxim-api.com&port=18443&secret=ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d"
   }
 ]
