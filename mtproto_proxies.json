@@ -1,20 +1,20 @@
 [
   {
-    "server": "khune.ir.bcsadwtgd.info",
-    "port": 7443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=khune.ir.bcsadwtgd.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-  },
-  {
-    "server": "teledomen.lol",
-    "port": 443,
-    "secret": "ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d",
-    "url": "tg://proxy?server=teledomen.lol&port=443&secret=ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d"
-  },
-  {
-    "server": "95.217.193.214",
+    "server": "95.217.193.223",
     "port": 443,
     "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-    "url": "tg://proxy?server=95.217.193.214&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+    "url": "tg://proxy?server=95.217.193.223&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+    "server": "65.21.227.204",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=65.21.227.204&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
+  },
+  {
+    "server": "91.107.180.53",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=91.107.180.53&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
