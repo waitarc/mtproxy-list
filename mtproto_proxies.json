@@ -1,20 +1,20 @@
 [
   {
-    "server": "jhndoes.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=jhndoes.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "russia.knox-proxy.world",
+    "port": 4515,
+    "secret": "eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+    "url": "tg://proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-    "server": "exiscos.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=exiscos.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "grovewillow.velvetwindow.cc",
+    "port": 443,
+    "secret": "eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e76656c76657477696e646f772e6363",
+    "url": "tg://proxy?server=grovewillow.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e76656c76657477696e646f772e6363"
   },
   {
-    "server": "termsnal.co.uk",
-    "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=termsnal.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "server": "grovewillow.paperteapot.com",
+    "port": 443,
+    "secret": "eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e7061706572746561706f742e636f6d",
+    "url": "tg://proxy?server=grovewillow.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9467726f766577696c6c6f772e7061706572746561706f742e636f6d"
   }
 ]
