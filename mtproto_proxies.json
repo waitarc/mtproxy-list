@@ -1,20 +1,20 @@
 [
   {
-    "server": "ccc.horizon555.co.uk",
+    "server": "freeconnect.lol",
+    "port": 443,
+    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
+    "url": "tg://proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
+  },
+  {
+    "server": "one.horizon555.co.uk",
     "port": 8443,
     "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "url": "tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   },
   {
-    "server": "cdncoast.com",
-    "port": 443,
-    "secret": "eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275",
-    "url": "tg://proxy?server=cdncoast.com&port=443&secret=eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275"
-  },
-  {
-    "server": "cdncove.com",
-    "port": 443,
-    "secret": "eea9bf6807ab1fccfb24817bcb05189bf3686f66662e7275",
-    "url": "tg://proxy?server=cdncove.com&port=443&secret=eea9bf6807ab1fccfb24817bcb05189bf3686f66662e7275"
+    "server": "91.98.97.225",
+    "port": 8443,
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
