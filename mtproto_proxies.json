@@ -1,20 +1,20 @@
 [
   {
-    "server": "proxtstar.live",
+    "server": "matrixxx.vip",
     "port": 443,
-    "secret": "eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
-    "url": "tg://proxy?server=proxtstar.live&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275"
+    "secret": "eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970",
+    "url": "tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970"
   },
   {
-    "server": "bia.hastim.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=bia.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "server": "xmatrixx.co.uk",
+    "port": 443,
+    "secret": "2f48b03cc79d4d2861100273256bfcb3",
+    "url": "tg://proxy?server=xmatrixx.co.uk&port=443&secret=2f48b03cc79d4d2861100273256bfcb3"
   },
   {
-    "server": "hamishe.hastim.co.uk",
+    "server": "jhndoes.co.uk",
     "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=hamishe.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+    "url": "tg://proxy?server=jhndoes.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   }
 ]
