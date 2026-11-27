@@ -1,20 +1,20 @@
 [
   {
-    "server": "citrus.velvetwindow.cc",
+    "server": "168.119.142.46",
     "port": 443,
-    "secret": "7tCfsw6bqUXj6ycodUE8jJRjaXRydXMudmVsdmV0d2luZG93LmNj",
-    "url": "tg://proxy?server=citrus.velvetwindow.cc&port=443&secret=7tCfsw6bqUXj6ycodUE8jJRjaXRydXMudmVsdmV0d2luZG93LmNj"
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=168.119.142.46&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "sub-deal-market.duckdns.org",
-    "port": 25687,
-    "secret": "ee4405ebc4cbec1ccdd5c207392566c39d3632386532316d2e666931322e6831636c6179642e636c69636b",
-    "url": "tg://proxy?server=sub-deal-market.duckdns.org&port=25687&secret=ee4405ebc4cbec1ccdd5c207392566c39d3632386532316d2e666931322e6831636c6179642e636c69636b"
+    "server": "135.181.74.183",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=135.181.74.183&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   },
   {
-    "server": "pesar.nanaz.co.uk",
-    "port": 8443,
-    "secret": "EERighJJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ"
+    "server": "135.181.74.189",
+    "port": 443,
+    "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+    "url": "tg://proxy?server=135.181.74.189&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0"
   }
 ]
