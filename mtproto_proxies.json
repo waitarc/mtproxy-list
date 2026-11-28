@@ -1,20 +1,20 @@
 [
   {
-    "server": "matrixxx.vip",
+    "server": "shared2.ddproxy.xyz",
     "port": 443,
-    "secret": "eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970",
-    "url": "tg://proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970"
+    "secret": "7t3d3d3d3d3d3d3d3d3d3d1tLmJlYm9vLnJ1",
+    "url": "tg://proxy?server=shared2.ddproxy.xyz&port=443&secret=7t3d3d3d3d3d3d3d3d3d3d1tLmJlYm9vLnJ1"
   },
   {
-    "server": "xmatrixx.co.uk",
+    "server": "lok1atomi.pr.deampro.pw",
     "port": 443,
-    "secret": "2f48b03cc79d4d2861100273256bfcb3",
-    "url": "tg://proxy?server=xmatrixx.co.uk&port=443&secret=2f48b03cc79d4d2861100273256bfcb3"
+    "secret": "ee85e36b1fea9add1b2b9de8996259df0f662d70312d733031352d3934356139666164653832312d3162623736356263333438612e6c6f6b3161746f6d692e70722e6465616d70726f2e7077",
+    "url": "tg://proxy?server=lok1atomi.pr.deampro.pw&port=443&secret=ee85e36b1fea9add1b2b9de8996259df0f662d70312d733031352d3934356139666164653832312d3162623736356263333438612e6c6f6b3161746f6d692e70722e6465616d70726f2e7077"
   },
   {
-    "server": "jhndoes.co.uk",
+    "server": "neon.tealbriar.xyz",
     "port": 8443,
-    "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-    "url": "tg://proxy?server=jhndoes.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    "secret": "ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
+    "url": "tg://proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275"
   }
 ]
